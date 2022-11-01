@@ -1,5 +1,5 @@
 # AngularCompileToJson
-Shell script to compile angular application and parse the generated compiler output
+Shell script for linux systems to compile angular application and parse the generated compiler output
 
 \
 Make sure that the files has executable permissions:
